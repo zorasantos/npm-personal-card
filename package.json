@@ -1,0 +1,46 @@
+{
+  "_from": "zorasantos",
+  "_id": "zorasantos@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-avtGVy45bYDeOh/NYMWYnGalVFuVSvsZ8edRM58dR9bczn3QWKrcP8RVNXA8vb/I7f0Wz5fHvk2td2DdEonytA==",
+  "_location": "/zorasantos",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "zorasantos",
+    "name": "zorasantos",
+    "escapedName": "zorasantos",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/zorasantos/-/zorasantos-1.0.0.tgz",
+  "_shasum": "c1b556048cde89b1790f2d8824d52caa997e9ae9",
+  "_spec": "zorasantos",
+  "_where": "C:\\Users\\zoranildo",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0"
+  },
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "zorasantos",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.0.0"
+}

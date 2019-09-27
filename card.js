@@ -20,7 +20,7 @@ const options = {
 const data = {
     name: chalk.white('           Zoranildo Santos /'),
     handle: chalk.cyan('zorasantos'),
-    work: chalk.cyan('Grupo Frangolândia'),
+    work: chalk.cyan('Front-End Developer | Procuradoria Geral'),
     npm: chalk.gray('https://npmjs.com/') + chalk.blue('zorasantos'),
     github: chalk.gray('https://github.com/') + chalk.blue('zorasantos'),
     linkedin: chalk.gray('https://www.linkedin.com/in/') + chalk.blue('zorasantos'),

@@ -1,7 +1,7 @@
 # Cartão Pessoal em NPX - Zoranildo Santos
 
 <p align="center">
-  <img src="https://res.cloudinary.com/doampncx5/image/upload/v1561809783/Capturar.png"/>  
+  <img src="https://res.cloudinary.com/doampncx5/image/upload/v1569548523/Capturar.png"/>  
 </p>
 
 O desenvolvimento desse package que simula um cartão pessoal faz parte dos meus exercícios de aprendizagem. Desenvolvemos o nosso card baseado 
@@ -69,7 +69,7 @@ no repositório do **[Tierney Cyren](https://twitter.com/bitandbang)**
     const data = {
         name: chalk.white('           Zoranildo Santos /'),
         handle: chalk.cyan('zorasantos'),
-        work: chalk.cyan('Grupo Frangolândia'),
+        work: chalk.cyan('Front-End Developer | Procuradoria Geral'),
         npm: chalk.gray('https://npmjs.com/') + chalk.blue('zorasantos'),
         github: chalk.gray('https://github.com/') + chalk.blue('zorasantos'),
         linkedin: chalk.gray('https://www.linkedin.com/in/') + chalk.blue('zorasantos'),
